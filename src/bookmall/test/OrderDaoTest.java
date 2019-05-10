@@ -13,6 +13,5 @@ public class OrderDaoTest {
 	private static void insertTest() {
 		OrderDao dao = new OrderDao(); 
 		dao.insert(1L);
-		dao.insert(2L);
 	}
 }

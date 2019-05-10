@@ -41,7 +41,7 @@ public class BookMall {
 					"이메일 : " + vo.getEmail() + "\r\n" +
 					"비밀번호 : " + vo.getPassword() + "\r\n" 
 					);
-			System.out.println("--------------------------------------------");
+			System.out.println("-----------------------------------------------------");
 		}
 		System.out.println();
 		System.out.println();

@@ -12,8 +12,7 @@ public class CartDaoTest {
 	public static void insertTest() {
 		CartDao dao = new CartDao(); 
 		dao.insert(1L,1L,5L);
-		dao.insert(2L,2L,2L);
-		dao.insert(3L,2L,1L);
+		dao.insert(2L,1L,2L);
 		
 	}
 	
